@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ranjit Dhakal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C+%7C+C%2B%2B+Developer;Flutter+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 🎓 Computer Science Student from Nepal
 
@@ -29,7 +29,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalranjit13-cloud&layout=compact&theme=github_dark)
 
-⭐ Thanks for visiting my profile!
+![Profile Views](https://komarev.com/ghpvc/?username=dhakalranjit13-cloud&color=blue)
 <!--
 **dhakalranjit13-cloud/dhakalranjit13-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
