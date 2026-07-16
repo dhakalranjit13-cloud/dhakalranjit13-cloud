@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalranjit13-cloud&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalranjit13-cloud&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalranjit13-cloud&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalranjit13-cloud&layout=compact&theme=github_dark)
 
 ⭐ Thanks for visiting my profile!
 <!--
