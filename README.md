@@ -22,6 +22,12 @@
 ## 📫 Connect with Me
 - GitHub: https://github.com/dhakalranjit13-cloud
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalranjit13-cloud&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalranjit13-cloud&layout=compact&theme=tokyonight)
+
 ⭐ Thanks for visiting my profile!
 <!--
 **dhakalranjit13-cloud/dhakalranjit13-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
