@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ranjit Dhakal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C+Programmer;Flutter+Learner;Open+Source+Enthusiast)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C+Programmer;Flutter+Learner;Open+Source+Enthusiast)
 
 🎓 Computer Science Student from Nepal
 
